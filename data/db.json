@@ -1,0 +1,18 @@
+{
+  "projek": [
+    {
+      "id": "1",
+      "nama": "AYU",
+      "chekin": "12/12/2023",
+      "chekout": "13/12/2023",
+      "jumlahkamar": "1"
+    },
+    {
+      "nama": "AZHARI",
+      "chekin": "Sun Dec 11 2023",
+      "chekout": "Mon Dec 12 2023",
+      "jumlahkamar": "2",
+      "id": "sxh1TQF"
+    }
+  ]
+}

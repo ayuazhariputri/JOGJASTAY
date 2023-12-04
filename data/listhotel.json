@@ -1,0 +1,452 @@
+[
+  {
+    "nama": "Ayaartta Hotel Malioboro",
+    "rating": 4.4,
+    "bintang": "3-star hotel",
+    "harga": "Rp 477K",
+    "alamat": "Jl. KH. Ahmad Dahlan No.123, Notoprajan",
+    "color": "#435585",
+    "icon": "star"
+  },
+  {
+    "nama": "Emersia Malioboro Hotel",
+    "rating": 4.4,
+    "bintang": "3-star hotel",
+    "harga": "Rp 394K",
+    "alamat": "Jl. Gowongan Kidul Nomor 34, Gowongan",
+    "color": "#435585",
+    "icon": "star"
+  },
+  {
+    "nama": "Grand Sarila",
+    "rating": 4.2,
+    "bintang": "3-star hotel",
+    "harga": "Rp 476K",
+    "alamat": "Jl. Affandi Soropadan XII No.03, Condongcatur",
+    "color": "#435585",
+    "icon": "star"
+  },
+  {
+    "nama": "Yogyakarta Marriott Hotel",
+    "rating": 4.7,
+    "bintang": "4-star hotel",
+    "harga": "Rp 1,46M",
+    "alamat": "Jl. Ring Road Utara, Kaliwaru",
+    "color": "#363062",
+    "icon": "stars"
+  },
+  {
+    "nama": "Lafayette Boutique Hotel",
+    "rating": 4.6,
+    "bintang": "4-star hotel",
+    "harga": "Rp 844K",
+    "alamat": "Manggung, Caturtunggal",
+    "color": "#363062",
+    "icon": "stars"
+  },
+  {
+    "nama": "Sahid Raya Yogyakarta Hotel & Convention",
+    "rating": 4.3,
+    "bintang": "4-star hotel",
+    "harga": "Rp 315K",
+    "alamat": "Jl. Babarsari No.2, Janti",
+    "color": "#363062",
+    "icon": "stars"
+  },
+  {
+    "nama": "Grand Serela Yogyakarta",
+    "rating": 4.3,
+    "bintang": "3-star hotel",
+    "harga": "Rp 386K",
+    "alamat": "Jl. Magelang KM.4 No.145, Rogoyudan",
+    "color": "#435585",
+    "icon": "star"
+  },
+  {
+    "nama": "Forriz Hotel Yogyakarta",
+    "rating": 4.4,
+    "bintang": "4-star hotel",
+    "harga": "Rp 310K",
+    "alamat": "Jl. HOS Cokroaminoto No.60, Pakuncen",
+    "color": "#363062",
+    "icon": "stars"
+  },
+  {
+    "nama": "The Grand Palace Hotel",
+    "rating": 4.2,
+    "bintang": "3-star hotel",
+    "harga": "Rp 279K",
+    "alamat": "Jl. Mangkuyudan No.32, Mantrijerona",
+    "color": "#435585",
+    "icon": "star"
+  },
+  {
+    "nama": "Hotel Dafam Fortuna Seturan",
+    "rating": 4.4,
+    "bintang": "3-star hotel",
+    "harga": "Rp 473K",
+    "alamat": "Jl. Seturan Raya No.4b, Kledokan",
+    "color": "#435585",
+    "icon": "star"
+  },
+  {
+    "nama": "Eastparc Hotel Yogyakarta",
+    "rating": 4.7,
+    "bintang": "4-star hotel",
+    "harga": "Rp 884K",
+    "alamat": "Jl. Laksda Adisucipto KM. 6.5 No.1, Caturtunggal",
+    "color": "#363062",
+    "icon": "stars"
+  },
+  {
+    "nama": "Meliá Purosani Yogyakarta",
+    "rating": 4.6,
+    "bintang": "4-star hotel",
+    "harga": "Rp 823K",
+    "alamat": "Jl. Mayor Suryotomo No.31, Ngupasan",
+    "color": "#363062",
+    "icon": "stars"
+  },
+  {
+    "nama": "Lynn Hotel By Horison",
+    "rating": 4.3,
+    "bintang": "3-star hotel",
+    "harga": "Rp 350K",
+    "alamat": "Jl. Jogokaryan No.82, Mantrijeron",
+    "color": "#435585",
+    "icon": "star"
+  },
+  {
+    "nama": "Swiss-Belboutique Yogyakarta",
+    "rating": 4.8,
+    "bintang": "4-star hotel",
+    "harga": "Rp 813K",
+    "alamat": "Jl. Jend. Sudirman No.69, Terban",
+    "color": "#363062",
+    "icon": "stars"
+  },
+  {
+    "nama": "Hotel Tentrem Yogyakarta",
+    "rating": 4.8,
+    "bintang": "4-star hotel",
+    "harga": "Rp 1,92M",
+    "alamat": "Jl. P. Mangkubumi No.72A, Cokrodiningratan",
+    "color": "#363062",
+    "icon": "stars"
+  },
+  {
+    "nama": "GRAMM HOTEL by Ambarrukmo (formerly - Grand Ambarrukmo)",
+    "rating": 4.7,
+    "bintang": "4-star hotel",
+    "harga": "Rp 697K",
+    "alamat": "Jl. Laksda Adisucipto No.82, Caturtunggal",
+    "color": "#363062",
+    "icon": "stars"
+  },
+  {
+    "nama": "The Victoria Hotel Yogyakarta",
+    "rating": 4.4,
+    "bintang": "4-star hotel",
+    "harga": "Rp 378K",
+    "alamat": "Jl. Laksda Adisucipto KM.5, Tempel",
+    "color": "#363062",
+    "icon": "stars"
+  },
+  {
+    "nama": "Cavinton Hotel Yogyakarta by Tritama Hospitality",
+    "rating": 4.5,
+    "bintang": "4-star hotel",
+    "harga": "Rp 550K",
+    "alamat": "Jl. Letjen Suprapto No.1, Ngampilan",
+    "color": "#363062",
+    "icon": "stars"
+  },
+  {
+    "nama": "favehotel Kusumanegara",
+    "rating": 4.6,
+    "bintang": "3-star hotel",
+    "harga": "Rp 366K",
+    "alamat": "Jl. Kusumanegara No.91, Muja Muju",
+    "color": "#435585",
+    "icon": "star"
+  },
+  {
+    "nama": "THE 1O1 Yogyakarta Tugu",
+    "rating": 4.6,
+    "bintang": "4-star hotel",
+    "harga": "Rp 669K",
+    "alamat": "Jl. Margo Utomo No.103, Tugu",
+    "color": "#363062",
+    "icon": "stars"
+  },
+  {
+    "nama": "Hotel Citradream Yogyakarta",
+    "rating": 4.3,
+    "bintang": "3-star hotel",
+    "harga": "Rp 316K",
+    "alamat": "Jl. A.M. Sangaji No.28, Cokrodiningratan",
+    "color": "#435585",
+    "icon": "star"
+  },
+  {
+    "nama": "Yellow Star Hotel - Ambarrukmo",
+    "rating": 4.3,
+    "bintang": "3-star hotel",
+    "harga": "Rp 357K",
+    "alamat": "Jl. Laksda Adisucipto No.23, Caturtunggal",
+    "color": "#435585",
+    "icon": "star"
+  },
+  {
+    "nama": "RedDoorz near Hartono Mall",
+    "rating": 4.1,
+    "bintang": "3-star hotel",
+    "harga": "Rp 103K",
+    "alamat": "Jl. Merpati, Gejayan, Condongcatur",
+    "color": "#435585",
+    "icon": "star"
+  },
+  {
+    "nama": "De Laxston Hotel",
+    "rating": 4.3,
+    "bintang": "3-star hotel",
+    "harga": "Rp 278K",
+    "alamat": "Jl. Urip Sumoharjo, Klitren",
+    "color": "#435585",
+    "icon": "star"
+  },
+  {
+    "nama": "éL Hotel Yogyakarta Malioboro",
+    "rating": 4.6,
+    "bintang": "4-star hotel",
+    "harga": "Rp 689K",
+    "alamat": "Jl. Dagen No.6, Sosromenduran",
+    "color": "#363062",
+    "icon": "stars"
+  },
+  {
+    "nama": "Top Malioboro Hotel Jogja",
+    "rating": 4.1,
+    "bintang": "3-star hotel",
+    "harga": "Rp 291K",
+    "alamat": "Jl. HOS Cokroaminoto No.145, Tegalrejo",
+    "color": "#435585",
+    "icon": "star"
+  },
+  {
+    "nama": "Royal Ambarrukmo Yogyakarta",
+    "rating": 4.8,
+    "bintang": "4-star hotel",
+    "harga": "Rp 1,37M",
+    "alamat": "Jl. Laksda Adisucipto No.81, Caturtunggal",
+    "color": "#363062",
+    "icon": "stars"
+  },
+  {
+    "nama": "Sans Hotel Prime Cailendra Yogyakarta",
+    "rating": 4.5,
+    "bintang": "3-star hotel",
+    "harga": "Rp 242K",
+    "alamat": "Jl. Taman Siswa No.91, Wirogunan",
+    "color": "#435585",
+    "icon": "star"
+  },
+  {
+    "nama": "Sagan Heritage Hotel",
+    "rating": 4.3,
+    "bintang": "3-star hotel",
+    "harga": "Rp 264K",
+    "alamat": "Jl. Kartini No.4, Terban",
+    "color": "#435585",
+    "icon": "star"
+  },
+  {
+    "nama": "The Cube Hotel Prawirotaman",
+    "rating": 4.2,
+    "bintang": "3-star hotel",
+    "harga": "Rp 304K",
+    "alamat": "Jl. Parangtritis No.16, Mantrijeron",
+    "color": "#435585",
+    "icon": "star"
+  },
+  {
+    "nama": "Kalya Hotel",
+    "rating": 4.2,
+    "bintang": "3-star hotel",
+    "harga": "Rp 239K",
+    "alamat": "Jl. Gedongkuning No.118, Rejowinangun",
+    "color": "#435585",
+    "icon": "star"
+  },
+  {
+    "nama": "Horison Ultima Riss Malioboro Yogyakarta",
+    "rating": 4.5,
+    "bintang": "4-star hotel",
+    "harga": "Rp 704K",
+    "alamat": "Jl. Gowongan Kidul, Sosromenduran",
+    "color": "#363062",
+    "icon": "stars"
+  },
+  {
+    "nama": "Grand Malioboro Yogyakarta",
+    "rating": 4.3,
+    "bintang": "3-star hotel",
+    "harga": "Rp 361K",
+    "alamat": "Jl. Dagen No.85, Sosromenduran",
+    "color": "#435585",
+    "icon": "star"
+  },
+  {
+    "nama": "Hotel New Saphir Yogyakarta",
+    "rating": 4.5,
+    "bintang": "4-star hotel",
+    "harga": "Rp 460K",
+    "alamat": "Jl. Laksda Adisucipto No.38, Demangan",
+    "color": "#363062",
+    "icon": "stars"
+  },
+  {
+    "nama": "POP! Hotel Timoho - Yogyakarta",
+    "rating": 4.3,
+    "bintang": "3-star hotel",
+    "harga": "Rp 255K",
+    "alamat": "Jl. Ipda Tut Harsono No.11, Muja Muju",
+    "color": "#435585",
+    "icon": "star"
+  },
+  {
+    "nama": "Greenhost Boutique Hotel Prawirotaman",
+    "rating": 4.6,
+    "bintang": "3-star hotel",
+    "harga": "Rp 454K",
+    "alamat": "Jl. Gerilya No.629, Brontokusuman",
+    "color": "#435585",
+    "icon": "star"
+  },
+  {
+    "nama": "Votel Viure Hotel Jogjakarta",
+    "rating": 4.4,
+    "bintang": "3-star hotel",
+    "harga": "Rp 242K",
+    "alamat": "Jl. Perumnas No 109A, Condongcatur",
+    "color": "#435585",
+    "icon": "star"
+  },
+  {
+    "nama": "Novotel Suites Yogyakarta Malioboro",
+    "rating": 4.7,
+    "bintang": "4-star hotel",
+    "harga": "Rp 1,13M",
+    "alamat": "Jl. Malioboro No.52 - 58, Suryatmajan",
+    "color": "#363062",
+    "icon": "stars"
+  },
+  {
+    "nama": "Jambuluwuk Malioboro Hotel",
+    "rating": 4.4,
+    "bintang": "4-star hotel",
+    "harga": "Rp 568K",
+    "alamat": "Jl. Gajah Mada No.67, Purwokinanti",
+    "color": "#363062",
+    "icon": "stars"
+  },
+  {
+    "nama": "Grand Kangen Hotel Urip Sumoharjo Yogyakarta",
+    "rating": 4.3,
+    "bintang": "3-star hotel",
+    "harga": "Rp 355K",
+    "alamat": "Jl. Urip Sumoharjo No.137, Klitren",
+    "color": "#435585",
+    "icon": "star"
+  },
+  {
+    "nama": "Tasneem Hotel and Convention Yogyakarta",
+    "rating": 4.3,
+    "bintang": "3-star hotel",
+    "harga": "Rp 234K",
+    "alamat": "Jl. Brigjen Katamso, Keparakan",
+    "color": "#435585",
+    "icon": "star"
+  },
+  {
+    "nama": "Harper Malioboro Yogyakarta",
+    "rating": 4.7,
+    "bintang": "4-star hotel",
+    "harga": "Rp 682K",
+    "alamat": "Jl. P. Mangkubumi No.52, Gowongan",
+    "color": "#363062",
+    "icon": "stars"
+  },
+  {
+    "nama": "Sans Hotel Prime Cailendra Yogyakarta",
+    "rating": 4.5,
+    "bintang": "3-star hotel",
+    "harga": "Rp 242K",
+    "alamat": "Jl. Taman Siswa No.91, Wirogunan",
+    "color": "#435585",
+    "icon": "star"
+  },
+  {
+    "nama": "Sagan Heritage Hotel",
+    "rating": 4.3,
+    "bintang": "3-star hotel",
+    "harga": "Rp 264K",
+    "alamat": "Jl. Kartini No.4, Terban",
+    "color": "#435585",
+    "icon": "star"
+  },
+  {
+    "nama": "Grand Mercure Yogyakarta Adi Sucipto",
+    "rating": 4.7,
+    "bintang": "4-star hotel",
+    "harga": "Rp 961K",
+    "alamat": "Jl. Laksda Adisucipto No.80, Caturtunggal",
+    "color": "#363062",
+    "icon": "stars"
+  },
+  {
+    "nama": "The Cube Hotel Prawirotaman",
+    "rating": 4.2,
+    "bintang": "3-star hotel",
+    "harga": "Rp 304K",
+    "alamat": "Jl. Parangtritis No.16, Kec. Mantrijeron",
+    "color": "#435585",
+    "icon": "star"
+  },
+  {
+    "nama": "Kalya Hotel",
+    "rating": 4.2,
+    "bintang": "3-star hotel",
+    "harga": "Rp 239K",
+    "alamat": "Jl. Gedongkuning No.118, Rejowinangun",
+    "color": "#435585",
+    "icon": "star"
+  },
+  {
+    "nama": "Grand Orchid Hotel Yogyakarta",
+    "rating": 4,
+    "bintang": "3-star hotel",
+    "harga": "Rp 353K",
+    "alamat": "Jl. Laksda Adisucipto No.Km. 8, Maguwoharjo",
+    "color": "#435585",
+    "icon": "star"
+  },
+  {
+    "nama": "Horison Ultima Riss Malioboro Yogyakarta",
+    "rating": 4.5,
+    "bintang": "4-star hotel",
+    "harga": "Rp 704K",
+    "alamat": "Jl. Gowongan Kidul, Sosromenduran",
+    "color": "#363062",
+    "icon": "stars"
+  },
+  {
+    "nama": "Grand Malioboro Yogyakarta",
+    "rating": 4.3,
+    "bintang": "3-star hotel",
+    "harga": "Rp 361K",
+    "alamat": "Jl. Dagen No.85, Sosromenduran",
+    "color": "#435585",
+    "icon": "star"
+  }
+]
