@@ -16,3 +16,8 @@
 
 ## Sumber Data 
 - Google Maps
+
+## Preview Produk
+<p align="left">
+  <img src="https://github.com/ayuazhariputri/JOGJASTAY/blob/main/projek.jpg" width="200" height="400"/>
+</p>
